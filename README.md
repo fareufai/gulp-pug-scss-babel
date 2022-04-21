@@ -1,7 +1,9 @@
-# GULP
+# gulp Pug SCSS babel Template
+
+## gulp
 - gulp
 - prettier
 
-## PUG
+## Pug
 - gulp-pug
 - @prettier/plugin-pug
